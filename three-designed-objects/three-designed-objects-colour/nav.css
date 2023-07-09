@@ -1,0 +1,57 @@
+body {
+    padding: 20px;
+    margin-left: 20em;
+    margin-top: 8em;
+}
+
+h1, h2, h3, a {
+    font-weight: normal;
+    color: #0088dd;
+    margin: 0px;
+}
+h1 {
+    font-family: Georgia, Times, serif;
+    font-size: 250%;
+    text-shadow: 2px 2px 3px #666666;
+    padding-bottom: 20px;
+}
+h2 {
+    font-family: "Gill Sans", Arial, sans-serif;
+    font-size: 90%;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    padding-bottom: 30px;
+}
+h3 {
+    font-size: 150%;
+}
+img {
+    float:left;
+    margin-right: 50px;
+    width:200px;
+    height: 200px;
+    margin-top:5px;
+    
+}
+li {
+    display: inline;
+    margin-right:9.5em;
+    border: 1px dashed #00F4EB;
+    padding:0.3em;
+    
+}
+ul {
+    margin-top:14em;
+    margin-left:2em;
+}
+p  {
+    font-family: Arial, Verdana, sans-serif;
+    line-height: 1.4em;
+    color: #665544;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}

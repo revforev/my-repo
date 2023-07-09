@@ -1,0 +1,29 @@
+body {
+    padding: 20px;
+}
+
+h1, h2, h3, a {
+    font-weight: normal;
+    margin: 0px;
+}
+h1 {
+    font-size: 250%;
+    padding-bottom: 20px;
+}
+h2 {
+    font-size: 90%;
+    padding-bottom: 30px;
+}
+h3 {
+    font-size: 150%;
+}
+p  {
+    line-height: 1.4em;
+    color: #665544;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}

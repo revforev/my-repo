@@ -1,0 +1,53 @@
+body {
+    padding: 30px;
+}
+h1, h2, h3, a {
+    font-weight: normal;
+    color: #0088dd;
+    margin: 0px;
+}
+h1 {
+    font-family: Georgia, Times, serif;
+    font-size: 250%;
+    text-shadow: 2px 2px 3px #666666;
+    padding-bottom: 10px;
+}
+h2 {
+    font-family: "Gill Sans", Arial, sans-serif;
+    font-size: 90%;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+h3 {
+    font-size: 130%;
+    color: #00619E;
+    margin:0.5em auto 1em auto;
+}
+p  {
+    font-family: Arial, Verdana, sans-serif;
+    line-height: 1.4em;
+    color: #665544;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    float:left;
+    margin-right: 50px;
+    width:200px;
+    height: 200px;
+    margin-top:5px;
+    
+}
+
+ul {
+    padding: 0;
+}
+nav {
+    float:right;
+    margin-top:5em;
+    margin-bottom:2em;
+}
